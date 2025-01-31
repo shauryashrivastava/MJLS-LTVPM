@@ -1,0 +1,1 @@
+Associated code for the following publication: S. Shrivastava and K. Oguri, "Robust Controller Synthesis Under Markovian Mode Switching With Periodic LTV Dynamics," in IEEE Control Systems Letters, vol. 8, pp. 3339-3344, 2024, doi: 10.1109/LCSYS.2024.3522212.
